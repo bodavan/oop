@@ -7,3 +7,4 @@ class fruit:
 f = fruit("mango","red-yellow")
 f.de()
 
+print('changing something.it is something')
