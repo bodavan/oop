@@ -6,3 +6,4 @@ class fruit:
         print('my favorite fruit is ',self.name,' amd its coulour is ',self.colour)
 f = fruit("mango","red-yellow")
 f.de()
+
